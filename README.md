@@ -7,10 +7,10 @@ This repository publishes a standalone Kotlin Multiplatform library for consumpt
 ## Workflow status
 
 ### All tests status
-[![Codemagic vm-tests status](https://api.codemagic.io/apps/6a5e2824997989ee564bfba7/vm-tests/status_badge.svg)](https://codemagic.io/app/6a5e2824997989ee564bfba7/vm-tests/latest_build)
+[![Codemagic vm-tests status](https://api.codemagic.io/apps/6a5e0d2168781379aa421c52/vm-tests/status_badge.svg)](https://codemagic.io/app/6a5e2824997989ee564bfba7/vm-tests/latest_build)
 
 ### Build and publish status
-[![Codemagic vm-publish status](https://api.codemagic.io/apps/6a5e2824997989ee564bfba7/vm-publish/status_badge.svg)](https://codemagic.io/app/6a5e2824997989ee564bfba7/vm-publish/latest_build)
+[![Codemagic vm-publish status](https://api.codemagic.io/apps/6a5e0d2168781379aa421c52/vm-publish/status_badge.svg)](https://codemagic.io/app/6a5e2824997989ee564bfba7/vm-publish/latest_build)
 
 ## Maven Coordinates
 
