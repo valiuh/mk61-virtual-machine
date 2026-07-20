@@ -25,3 +25,18 @@ replay_pid*
 
 # Kotlin Gradle plugin data, see https://kotlinlang.org/docs/whatsnew20.html#new-directory-for-kotlin-data-in-gradle-projects
 .kotlin/
+
+# Build outputs
+build/
+.gradle/
+
+# Local environment and IDE
+.idea/
+*.iml
+
+# Local secrets and signing materials
+pipelines/secrets/*.properties
+!pipelines/secrets/*.properties.example
+*.asc
+*.gpg
+*.key
