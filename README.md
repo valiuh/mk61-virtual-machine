@@ -21,7 +21,7 @@ This project is a stack‑based VM that tries to follow the behavior of the orig
 
 ```toml
 [versions]
-mk61-vm = "0.1.2"
+mk61-vm = "0.1.3"
 
 [libraries]
 mk61-virtual-machine = { module = "io.github.valiuh.mk61:virtual-machine", version.ref = "mk61-vm" }
@@ -40,7 +40,7 @@ If you are not using the Kotlin DSL, you can add it directly in `build.gradle`:
 
 ```groovy
 dependencies {
-    implementation "io.github.valiuh.mk61:virtual-machine:0.1.2"
+    implementation "io.github.valiuh.mk61:virtual-machine:0.1.3"
 }
 ```
 
@@ -50,7 +50,7 @@ For Maven, add the following to your `pom.xml`:
 <dependency>
     <groupId>io.github.valiuh.mk61</groupId>
     <artifactId>virtual-machine</artifactId>
-    <version>0.1.2</version>
+    <version>0.1.3</version>
 </dependency>
 ```
 ---
