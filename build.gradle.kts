@@ -7,7 +7,7 @@ plugins {
     alias(libs.plugins.vanniktechMavenPublish)
 }
 
-group = "com.valiukh.mk61"
+group = "io.github.valiuh.mk61"
 version = providers.gradleProperty("VERSION_NAME").get()
 
 kotlin {

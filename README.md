@@ -16,10 +16,10 @@ This repository publishes a standalone Kotlin Multiplatform library for consumpt
 
 ```toml
 [versions]
-mk61-vm = "0.1.1"
+mk61-vm = "0.1.2"
 
 [libraries]
-mk61-virtual-machine = { module = "com.valiukh.mk61:virtual-machine", version.ref = "mk61-vm" }
+mk61-virtual-machine = { module = "io.github.valiuh.mk61:virtual-machine", version.ref = "mk61-vm" }
 ```
 
 ## Local Usage
